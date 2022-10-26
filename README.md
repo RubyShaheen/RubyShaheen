@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @RubyShaheen atmospheric chemist and budding data scientist.
+- 👋 Hi, I’m @RubyShaheen, atmospheric chemist and budding data scientist.
 - 👀 I’m interested in using satellite and ground sensors data to quantify sources of air pollution and greenhouse gases.
 - 🌱 I’m currently learning python time series and dev/op systems
 - 💞️ I’m looking to collaborate on automating data analysis
